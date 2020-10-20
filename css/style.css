@@ -1,0 +1,36 @@
+#topHeader{
+    background-color: #ebebeb;
+    border-bottom: 1px solid silver;
+}
+
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0; 
+    /* to remove lft,right space of 15px */
+}
+
+
+.btnsignup{
+    background: linear-gradient(#45cafc,#303f9f);
+    border-radius: 20px;
+    font-size: .81rem; padding: .84rem 9.14rem;
+    color: #fff;
+}
+
+.Mylogin{
+    background: linear-gradient(#45cafc,#303f9f);
+    border-radius: 20px;
+    font-size: .81rem; padding: .84rem 9.14rem;
+    color: #fff;
+}
+
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
